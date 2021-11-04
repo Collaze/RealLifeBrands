@@ -4,8 +4,8 @@
 
 # Credit:
 
-#eshenk ( Real-Life Random Clutter)
+eshenk ( Real-Life Random Clutter)
 
-#eshenk (Real-Life Food Brands)
+eshenk (Real-Life Food Brands)
 
-#israelsr ( Soda Vending Machines)
+israelsr ( Soda Vending Machines)
